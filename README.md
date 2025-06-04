@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # skinyeobo
 
 Aplikasi Beli Skincare
@@ -14,3 +15,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# Skinyeobo
+Skinyeobo android app project made with flutter
+>>>>>>> 4520d75593f6657f17e251f552a3522364a2745f
