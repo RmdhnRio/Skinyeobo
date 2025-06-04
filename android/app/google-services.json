@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "760080938117",
+    "project_id": "skinyeobo-dafb6",
+    "storage_bucket": "skinyeobo-dafb6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:760080938117:android:b497750a7db79782c325ec",
+        "android_client_info": {
+          "package_name": "com.example.skinyeobo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0XIIt74O2hIpQMzNa7L6ppQt3ugsz8L4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

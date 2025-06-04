@@ -1,0 +1,1324 @@
+{
+  "name": "voucher_5",
+  "version": 33,
+  "source-key": {
+    "type": "figma",
+    "file": "F6QIujy0YlK66IDvEOs3hF",
+    "node": "235:59",
+    "version": "6827192726",
+    "component-id": "2df7b24be6862f183f3cbcf78a3325d4e220f217"
+  },
+  "default": "Open=False",
+  "design": {
+    "atoms": [
+      {
+        "type": "group",
+        "id": "top_level",
+        "root": "true"
+      },
+      {
+        "type": "group",
+        "id": "Voucher "
+      },
+      {
+        "type": "vector",
+        "id": "Rectangle 21"
+      },
+      {
+        "type": "image",
+        "id": "skincare bundle blue"
+      },
+      {
+        "type": "vector",
+        "id": "Rectangle 24"
+      },
+      {
+        "type": "text",
+        "id": "60% OFF"
+      },
+      {
+        "type": "vector",
+        "id": "Line 14"
+      },
+      {
+        "type": "text",
+        "id": "ALL CATEGORIES DISCOUNT VOUCHER"
+      },
+      {
+        "type": "text",
+        "id": "Valid Until 30 Apr 2022"
+      },
+      {
+        "type": "text",
+        "id": "RAMADHAN SPECIAL"
+      },
+      {
+        "type": "vector",
+        "id": "Rectangle 22"
+      },
+      {
+        "type": "vector",
+        "id": "Rectangle 25"
+      },
+      {
+        "type": "vector",
+        "id": "Line 15"
+      },
+      {
+        "type": "text",
+        "id": "T & C Description"
+      },
+      {
+        "type": "group",
+        "id": "Voucher 1"
+      },
+      {
+        "type": "group",
+        "id": "Frame 9"
+      },
+      {
+        "type": "vector",
+        "id": "Rectangle 26"
+      },
+      {
+        "type": "vector",
+        "id": "Rectangle 27"
+      },
+      {
+        "type": "vector",
+        "id": "Rectangle 23"
+      },
+      {
+        "type": "vector",
+        "id": "Rectangle 28"
+      },
+      {
+        "type": "vector",
+        "id": "Line 16"
+      }
+    ],
+    "modes": {
+      "Open=False": {
+        "rules": [
+          {
+            "id": "top_level",
+            "tap-handler": "$onClick",
+            "is-structured": false,
+            "children": [
+              "Voucher ",
+              "Rectangle 21",
+              "skincare bundle blue",
+              "Rectangle 24",
+              "60% OFF",
+              "Line 14",
+              "ALL CATEGORIES DISCOUNT VOUCHER",
+              "Valid Until 30 Apr 2022",
+              "RAMADHAN SPECIAL"
+            ],
+            "clip-content": false
+          },
+          {
+            "id": "Voucher ",
+            "margin": {
+              "left": 22.0,
+              "top": 14.0,
+              "right": 23.0,
+              "bottom": 0.3296051025390625
+            },
+            "border-radius": 11.0,
+            "is-structured": false,
+            "children": [
+              "Rectangle 22",
+              "Rectangle 25",
+              "Line 15"
+            ],
+            "clip-content": false
+          },
+          {
+            "id": "Rectangle 21",
+            "margin": {
+              "right": 0.00006103515625
+            },
+            "border-radius": 11.0,
+            "drop-shadow": {
+              "color": {
+                "alpha": 0.24705882352941178,
+                "hue": 0.0,
+                "saturation": 0.0,
+                "value": 0.5568627450980392
+              },
+              "blur": 16.0,
+              "offset-x": 0.0,
+              "offset-y": 14.0,
+              "spread": -9.0,
+              "blend-mode": "normal"
+            },
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": -7.0
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": 0.0
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              }
+            },
+            "vector-content": "rectangle_21.svg"
+          },
+          {
+            "id": "skincare bundle blue",
+            "margin": {
+              "left": 6.0,
+              "right": 191.00006103515625,
+              "bottom": 26.0
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              }
+            },
+            "image-content": "$voucher_image",
+            "scale": "fill"
+          },
+          {
+            "id": "Rectangle 24",
+            "margin": {
+              "left": 0.000004983096943078635,
+              "top": 0.000014868901118347821,
+              "right": 0.000056052059335343074,
+              "bottom": 0.00001564867700665218
+            },
+            "border-radius": 11.0,
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": 0.0
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": 7.797758883043571e-7
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              }
+            },
+            "vector-content": "rectangle_24.svg"
+          },
+          {
+            "id": "60% OFF",
+            "margin": {
+              "left": 280.0,
+              "top": 8.000152587890625,
+              "right": 8.00006103515625,
+              "bottom": 41.999847412109375
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              }
+            },
+            "font-weight": 300.0,
+            "color": {
+              "alpha": 1.0,
+              "hue": 0.0,
+              "saturation": 0.0,
+              "value": 0.27450980392156865
+            },
+            "annotated-text-content": "$60% OFF text content",
+            "overflow": "visible",
+            "text-align": "right",
+            "text-size": 36.0,
+            "line-height": 1.2000000211927626,
+            "typeface": "Lato"
+          },
+          {
+            "id": "Line 14",
+            "margin": {
+              "left": 212.99999750845086,
+              "top": 57.00000077977586,
+              "right": 31.00006352670539,
+              "bottom": 56.99999922022414
+            },
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": 0.000004983098278898979
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": 0.0
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              }
+            },
+            "vector-content": "line_14.svg"
+          },
+          {
+            "id": "ALL CATEGORIES DISCOUNT VOUCHER",
+            "margin": {
+              "left": 26.0,
+              "top": 36.0,
+              "right": 108.00006103515625,
+              "bottom": 47.0
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              }
+            },
+            "font-weight": 300.0,
+            "color": {
+              "alpha": 1.0,
+              "hue": 0.0,
+              "saturation": 0.0,
+              "value": 0.27450980392156865
+            },
+            "text-content": "$voucher_desc",
+            "overflow": "visible",
+            "max-lines": -1,
+            "text-align": "left",
+            "text-size": 12.0,
+            "line-height": 1.2000000476837158,
+            "typeface": "Lato"
+          },
+          {
+            "id": "Valid Until 30 Apr 2022",
+            "margin": {
+              "left": 26.0,
+              "top": 88.0,
+              "right": 230.00006103515625,
+              "bottom": 14.0
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              }
+            },
+            "font-weight": 300.0,
+            "color": {
+              "alpha": 1.0,
+              "hue": 0.0,
+              "saturation": 0.0,
+              "value": 0.27450980392156865
+            },
+            "text-content": "$voucher_date",
+            "overflow": "visible",
+            "text-align": "left",
+            "text-size": 10.0,
+            "line-height": 1.2,
+            "typeface": "Lato"
+          },
+          {
+            "id": "RAMADHAN SPECIAL",
+            "margin": {
+              "left": 26.0,
+              "top": 14.0,
+              "right": 132.00006103515625,
+              "bottom": 78.0
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              }
+            },
+            "color": {
+              "alpha": 1.0,
+              "hue": 0.0,
+              "saturation": 0.0,
+              "value": 0.27450980392156865
+            },
+            "text-content": "$voucher_title",
+            "overflow": "visible",
+            "text-align": "left",
+            "text-size": 18.0,
+            "line-height": 1.2170000076293945,
+            "typeface": "MADE Sunflower"
+          },
+          {
+            "id": "Rectangle 22",
+            "margin": {
+              "right": 0.00006103515625
+            },
+            "border-radius": 11.0,
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              }
+            },
+            "vector-content": "rectangle_22.svg"
+          },
+          {
+            "id": "Rectangle 25",
+            "margin": {
+              "left": 0.000004356729988330699,
+              "top": 0.000016835913591251028,
+              "right": 0.00005667842629009101,
+              "bottom": 0.000013681664540854399
+            },
+            "border-radius": 11.0,
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": 0.0
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": -0.000003154249043291202
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              }
+            },
+            "vector-content": "rectangle_25.svg"
+          },
+          {
+            "id": "Line 15",
+            "margin": {
+              "left": 186.22626277524762,
+              "top": 49.83519744873044,
+              "right": 27.103403362447693,
+              "bottom": 49.8351974487305
+            },
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": 0.000004356731551524717
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": 0.0
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              }
+            },
+            "vector-content": "line_15.svg"
+          }
+        ]
+      },
+      "Open=True": {
+        "rules": [
+          {
+            "id": "top_level",
+            "tap-handler": "$onClick",
+            "is-structured": false,
+            "children": [
+              "Voucher ",
+              "Rectangle 25",
+              "T & C Description",
+              "Voucher 1",
+              "Frame 9",
+              "Rectangle 26",
+              "Rectangle 21",
+              "skincare bundle blue",
+              "Rectangle 24",
+              "Line 14",
+              "ALL CATEGORIES DISCOUNT VOUCHER",
+              "Valid Until 30 Apr 2022",
+              "RAMADHAN SPECIAL",
+              "60% OFF"
+            ],
+            "clip-content": false
+          },
+          {
+            "id": "Voucher ",
+            "margin": {
+              "left": 22.0,
+              "top": 14.0,
+              "right": 23.0,
+              "bottom": 0.3296051025390625
+            },
+            "border-radius": 11.0,
+            "is-structured": false,
+            "children": [
+              "Rectangle 22",
+              "Rectangle 27",
+              "Line 15"
+            ],
+            "clip-content": false
+          },
+          {
+            "id": "Rectangle 25",
+            "margin": {
+              "top": 36.00014877319336,
+              "right": 0.00006103515625
+            },
+            "border-radius": 11.0,
+            "drop-shadow": {
+              "color": {
+                "alpha": 0.24705882352941178,
+                "hue": 0.0,
+                "saturation": 0.0,
+                "value": 0.5568627450980392
+              },
+              "blur": 16.0,
+              "offset-x": 0.0,
+              "offset-y": 14.0,
+              "spread": -9.0,
+              "blend-mode": "normal"
+            },
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": -7.0
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": 0.0
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              }
+            },
+            "vector-content": "rectangle_26.svg"
+          },
+          {
+            "id": "T & C Description",
+            "margin": {
+              "left": 26.0,
+              "top": 161.0001220703125,
+              "right": 220.00006103515625
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              }
+            },
+            "color": {
+              "alpha": 1.0,
+              "hue": 0.0,
+              "saturation": 0.0,
+              "value": 0.27450980392156865
+            },
+            "text-content": "$tc_description",
+            "overflow": "visible",
+            "text-align": "left",
+            "text-size": 12.0,
+            "line-height": 1.2000000476837158,
+            "typeface": "Lato"
+          },
+          {
+            "id": "Voucher 1",
+            "margin": {
+              "left": 22.0,
+              "top": 14.0,
+              "right": 23.0,
+              "bottom": 0.3296051025390625
+            },
+            "border-radius": 11.0,
+            "is-structured": false,
+            "children": [
+              "Rectangle 23",
+              "Rectangle 28",
+              "Line 16"
+            ],
+            "clip-content": false
+          },
+          {
+            "id": "Frame 9",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": 26.0
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": 128.0
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "shrink"
+              },
+              "height-constraints": {
+                "sizing-mode": "shrink"
+              }
+            },
+            "arrangement": "row",
+            "main-axis-align": "start",
+            "cross-axis-align": "start",
+            "children": "$Frame 9 children",
+            "item-spacing": 23.0,
+            "clip-content": false
+          },
+          {
+            "id": "Rectangle 26",
+            "margin": {
+              "top": 0.0001544952392578125,
+              "right": 0.00006103515625
+            },
+            "border-radius": 11.0,
+            "drop-shadow": {
+              "color": {
+                "alpha": 0.24705882352941178,
+                "hue": 0.0,
+                "saturation": 0.0,
+                "value": 0.5568627450980392
+              },
+              "blur": 16.0,
+              "offset-x": 0.0,
+              "offset-y": 14.0,
+              "spread": -9.0,
+              "blend-mode": "normal"
+            },
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": -7.0
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": 0.0
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              }
+            },
+            "vector-content": "rectangle_27.svg"
+          },
+          {
+            "id": "Rectangle 21",
+            "margin": {
+              "right": 0.00006103515625
+            },
+            "border-radius": 11.0,
+            "drop-shadow": {
+              "color": {
+                "alpha": 0.24705882352941178,
+                "hue": 0.0,
+                "saturation": 0.0,
+                "value": 0.5568627450980392
+              },
+              "blur": 16.0,
+              "offset-x": 0.0,
+              "offset-y": 14.0,
+              "spread": -9.0,
+              "blend-mode": "normal"
+            },
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": -7.0
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": 0.0
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              }
+            },
+            "vector-content": "rectangle_23.svg"
+          },
+          {
+            "id": "skincare bundle blue",
+            "margin": {
+              "left": 6.0,
+              "right": 191.00006103515625,
+              "bottom": 26.0
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              }
+            },
+            "image-content": "$voucher_image",
+            "scale": "fill"
+          },
+          {
+            "id": "Rectangle 24",
+            "margin": {
+              "left": 0.000004983096943078635,
+              "top": 0.000014868901118347821,
+              "right": 0.000056052059335343074,
+              "bottom": 0.00001564867700665218
+            },
+            "border-radius": 11.0,
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": 0.0
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": 7.797758883043571e-7
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              }
+            },
+            "vector-content": "rectangle_28.svg"
+          },
+          {
+            "id": "Line 14",
+            "margin": {
+              "left": 212.99999750845086,
+              "top": 57.00000077977586,
+              "right": 31.00006352670539,
+              "bottom": 56.99999922022414
+            },
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": 0.000004983098278898979
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": 0.0
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              }
+            },
+            "vector-content": "line_16.svg"
+          },
+          {
+            "id": "ALL CATEGORIES DISCOUNT VOUCHER",
+            "margin": {
+              "left": 26.0,
+              "top": 36.0,
+              "right": 108.00006103515625,
+              "bottom": 47.0
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              }
+            },
+            "font-weight": 300.0,
+            "color": {
+              "alpha": 1.0,
+              "hue": 0.0,
+              "saturation": 0.0,
+              "value": 0.27450980392156865
+            },
+            "text-content": "$voucher_desc",
+            "overflow": "visible",
+            "max-lines": -1,
+            "text-align": "left",
+            "text-size": 12.0,
+            "line-height": 1.2000000476837158,
+            "typeface": "Lato"
+          },
+          {
+            "id": "Valid Until 30 Apr 2022",
+            "margin": {
+              "left": 26.0,
+              "top": 88.0,
+              "right": 230.00006103515625,
+              "bottom": 14.0
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              }
+            },
+            "font-weight": 300.0,
+            "color": {
+              "alpha": 1.0,
+              "hue": 0.0,
+              "saturation": 0.0,
+              "value": 0.27450980392156865
+            },
+            "text-content": "$voucher_date",
+            "overflow": "visible",
+            "text-align": "left",
+            "text-size": 10.0,
+            "line-height": 1.2,
+            "typeface": "Lato"
+          },
+          {
+            "id": "RAMADHAN SPECIAL",
+            "margin": {
+              "left": 26.0,
+              "top": 14.000000953674316,
+              "right": 132.00006103515625,
+              "bottom": 77.99999904632568
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              }
+            },
+            "color": {
+              "alpha": 1.0,
+              "hue": 0.0,
+              "saturation": 0.0,
+              "value": 0.27450980392156865
+            },
+            "text-content": "$voucher_title",
+            "overflow": "visible",
+            "text-align": "left",
+            "text-size": 18.0,
+            "line-height": 1.2170000076293945,
+            "typeface": "MADE Sunflower"
+          },
+          {
+            "id": "60% OFF",
+            "margin": {
+              "left": 280.0,
+              "top": 8.000152587890625,
+              "right": 8.00006103515625,
+              "bottom": 41.999847412109375
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              }
+            },
+            "font-weight": 300.0,
+            "color": {
+              "alpha": 1.0,
+              "hue": 0.0,
+              "saturation": 0.0,
+              "value": 0.27450980392156865
+            },
+            "annotated-text-content": "$60% OFF text content",
+            "overflow": "visible",
+            "text-align": "right",
+            "text-size": 36.0,
+            "line-height": 1.2000000211927626,
+            "typeface": "Lato"
+          },
+          {
+            "id": "Rectangle 22",
+            "margin": {
+              "top": 9.5367431640625e-7,
+              "right": 0.00006103515625
+            },
+            "border-radius": 11.0,
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              }
+            },
+            "vector-content": "rectangle_29.svg"
+          },
+          {
+            "id": "Rectangle 27",
+            "margin": {
+              "left": 0.000004356729988330699,
+              "top": 0.000016835913591251028,
+              "right": 0.00005667842629009101,
+              "bottom": 0.000013681664540854399
+            },
+            "border-radius": 11.0,
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": 0.0
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": 0.0000011372853663260685
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              }
+            },
+            "vector-content": "rectangle_30.svg"
+          },
+          {
+            "id": "Line 15",
+            "margin": {
+              "left": 186.22626277524762,
+              "top": 49.83519744873044,
+              "right": 27.103403362447693,
+              "bottom": 49.8351974487305
+            },
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": 0.000004356731551524717
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": 0.0
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              }
+            },
+            "vector-content": "line_17.svg"
+          },
+          {
+            "id": "Rectangle 23",
+            "margin": {
+              "top": 9.5367431640625e-7,
+              "right": 0.00006103515625
+            },
+            "border-radius": 11.0,
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              }
+            },
+            "vector-content": "rectangle_31.svg"
+          },
+          {
+            "id": "Rectangle 28",
+            "margin": {
+              "left": 0.000004356729988330699,
+              "top": 0.000016835913591251028,
+              "right": 0.00005667842629009101,
+              "bottom": 0.000013681664540854399
+            },
+            "border-radius": 11.0,
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": 0.0
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": 0.0000011372853663260685
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              }
+            },
+            "vector-content": "rectangle_32.svg"
+          },
+          {
+            "id": "Line 16",
+            "margin": {
+              "left": 186.22626277524762,
+              "top": 49.83519744873044,
+              "right": 27.103403362447693,
+              "bottom": 49.8351974487305
+            },
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": 0.000004356731551524717
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": 0.0
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              }
+            },
+            "vector-content": "line_18.svg"
+          }
+        ]
+      }
+    }
+  },
+  "parameters": {
+    "onClick": {
+      "data-type": "void-callback",
+      "required": false,
+      "description": ""
+    },
+    "voucher_image": {
+      "data-type": "image",
+      "required": false,
+      "description": ""
+    },
+    "60% OFF text content": {
+      "data-type": "annotated-text-content",
+      "required": false,
+      "description": ""
+    },
+    "voucher_desc": {
+      "data-type": "text",
+      "required": false,
+      "description": ""
+    },
+    "voucher_date": {
+      "data-type": "text",
+      "required": false,
+      "description": ""
+    },
+    "voucher_title": {
+      "data-type": "text",
+      "required": false,
+      "description": ""
+    },
+    "tc_description": {
+      "data-type": "text",
+      "required": false,
+      "description": ""
+    },
+    "Frame 9 children": {
+      "data-type": "list-item",
+      "required": false,
+      "description": ""
+    }
+  },
+  "previews": [
+    {
+      "design": "Open=False",
+      "size": {
+        "width": 358.00006103515625,
+        "height": 114.0
+      },
+      "parameters": {
+        "voucher_image": "skincare_bundle_blue.png",
+        "60% OFF text content": {
+          "text": "60%\nOFF",
+          "annotated-text-span-list": [
+            {
+              "span-start": 0,
+              "span-length": 2
+            },
+            {
+              "span-start": 2,
+              "span-length": 2,
+              "annotated-text-style": {
+                "color": {
+                  "alpha": 1.0,
+                  "hue": 0.0,
+                  "saturation": 0.0,
+                  "value": 0.27450980392156865
+                }
+              }
+            },
+            {
+              "span-start": 4,
+              "span-length": 3,
+              "annotated-text-style": {
+                "text-size": 20.0,
+                "color": {
+                  "alpha": 1.0,
+                  "hue": 0.0,
+                  "saturation": 0.0,
+                  "value": 0.27450980392156865
+                }
+              }
+            }
+          ]
+        },
+        "voucher_desc": "ALL CATEGORIES DISCOUNT VOUCHER",
+        "voucher_date": "Valid Until 30 Apr 2022",
+        "voucher_title": "RAMADHAN SPECIAL",
+        "tc_description": "T & C Description",
+        "Frame 9 children": [
+          {
+            "type": "text",
+            "font-weight": 300.0,
+            "color": {
+              "alpha": 1.0,
+              "hue": 0.0,
+              "saturation": 0.0,
+              "value": 0.27450980392156865
+            },
+            "text-content": "Terms & Condition",
+            "overflow": "visible",
+            "text-align": "left",
+            "text-size": 12.0,
+            "line-height": 1.2000000476837158,
+            "typeface": "Lato"
+          },
+          {
+            "type": "text",
+            "font-weight": 300.0,
+            "color": {
+              "alpha": 1.0,
+              "hue": 0.0,
+              "saturation": 0.0,
+              "value": 0.27450980392156865
+            },
+            "text-content": "About",
+            "overflow": "visible",
+            "text-align": "left",
+            "text-size": 12.0,
+            "line-height": 1.2000000476837158,
+            "typeface": "Lato"
+          },
+          {
+            "type": "text",
+            "font-weight": 300.0,
+            "color": {
+              "alpha": 1.0,
+              "hue": 0.0,
+              "saturation": 0.0,
+              "value": 0.27450980392156865
+            },
+            "text-content": "How to use voucher ",
+            "overflow": "visible",
+            "text-align": "left",
+            "text-size": 12.0,
+            "line-height": 1.2000000476837158,
+            "typeface": "Lato"
+          }
+        ]
+      }
+    },
+    {
+      "design": "Open=True",
+      "size": {
+        "width": 358.00006103515625,
+        "height": 114.0
+      },
+      "parameters": {
+        "voucher_image": "skincare_bundle_blue.png",
+        "60% OFF text content": {
+          "text": "60%\nOFF",
+          "annotated-text-span-list": [
+            {
+              "span-start": 0,
+              "span-length": 2
+            },
+            {
+              "span-start": 2,
+              "span-length": 2,
+              "annotated-text-style": {
+                "color": {
+                  "alpha": 1.0,
+                  "hue": 0.0,
+                  "saturation": 0.0,
+                  "value": 0.27450980392156865
+                }
+              }
+            },
+            {
+              "span-start": 4,
+              "span-length": 3,
+              "annotated-text-style": {
+                "text-size": 20.0,
+                "color": {
+                  "alpha": 1.0,
+                  "hue": 0.0,
+                  "saturation": 0.0,
+                  "value": 0.27450980392156865
+                }
+              }
+            }
+          ]
+        },
+        "voucher_desc": "ALL CATEGORIES DISCOUNT VOUCHER",
+        "voucher_date": "Valid Until 30 Apr 2022",
+        "voucher_title": "RAMADHAN SPECIAL",
+        "tc_description": "T & C Description",
+        "Frame 9 children": [
+          {
+            "type": "text",
+            "font-weight": 300.0,
+            "color": {
+              "alpha": 1.0,
+              "hue": 0.0,
+              "saturation": 0.0,
+              "value": 0.27450980392156865
+            },
+            "text-content": "Terms & Condition",
+            "overflow": "visible",
+            "text-align": "left",
+            "text-size": 12.0,
+            "line-height": 1.2000000476837158,
+            "typeface": "Lato"
+          },
+          {
+            "type": "text",
+            "font-weight": 300.0,
+            "color": {
+              "alpha": 1.0,
+              "hue": 0.0,
+              "saturation": 0.0,
+              "value": 0.27450980392156865
+            },
+            "text-content": "About",
+            "overflow": "visible",
+            "text-align": "left",
+            "text-size": 12.0,
+            "line-height": 1.2000000476837158,
+            "typeface": "Lato"
+          },
+          {
+            "type": "text",
+            "font-weight": 300.0,
+            "color": {
+              "alpha": 1.0,
+              "hue": 0.0,
+              "saturation": 0.0,
+              "value": 0.27450980392156865
+            },
+            "text-content": "How to use voucher ",
+            "overflow": "visible",
+            "text-align": "left",
+            "text-size": 12.0,
+            "line-height": 1.2000000476837158,
+            "typeface": "Lato"
+          }
+        ]
+      }
+    }
+  ],
+  "adin-component-search-paths": [],
+  "image-search-paths": [],
+  "vector-search-paths": []
+}

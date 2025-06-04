@@ -1,0 +1,2 @@
+C:/Users/rio.ramadhan/StudioProjects/Skinyeobo/android/app/.cxx/Debug/12r193n5/x86/CMakeFiles/edit_cache.dir
+C:/Users/rio.ramadhan/StudioProjects/Skinyeobo/android/app/.cxx/Debug/12r193n5/x86/CMakeFiles/rebuild_cache.dir
